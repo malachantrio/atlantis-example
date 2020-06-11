@@ -1,0 +1,3 @@
+variable "size" {
+  type = number
+}
